@@ -1,0 +1,43 @@
+Server_SQL_EXPRESS=DESKTOP-0EKP4K6
+Nome_Sql_Instance=SQL2019
+Tipo_authentificazione=SQL AUTHENTIFICATION
+Utente_server=sa
+Password_server=DevSoft2017
+DATABASE=DevPDF_Decoder
+Utente_accesso_DB=sa
+Password_DB=DevSoft2017
+IsTrustedConnection=admin
+IsLocalServer=DevSoft2017
+securizzatoProgramma=False
+usernameProgramma=adri
+passwordProgramma=adri
+mailRegistrazioneUtenteProgramma=
+
+ACCESSDATABASELOCALEPATH=%\DB_LOCALE.mdb
+ACCESSDATABASEPASSWORD=granclima!2012
+
+MYSQLSERVER=66.71.190.97
+MYSQLDATABASE=030925MBTEST
+MYSQLUSERNAME=mbinformatica
+MYSQLPASSWORD=mb2013
+
+DirectoryPath=%
+ApplicationPath=%\Debug\
+BackupsPATH=%\Backups\
+TempFilesPATH=%\File temp\
+RapportiPDFPATH=%\Rapporti pdf\
+
+EmailRisposta=mail.emmicontrol@gmail.com
+Smtp=smtp.gmail.com
+Porta=587
+enableSSL=True
+CredentialsUsername=mail.emmicontrol
+CredentialsPassword=mbinformatica2014
+
+FTPServer=66.71.182.43
+FTPPorta=21
+FTPUser=ftp@agg.mbinformatica.it
+FTPPass=granclima2012
+FTPPathAggiornamenti=/aggiornamenti/TEST_EMMICONTROL/AGGIORNAMENTI/
+FTPPath=/aggiornamenti/TEST_EMMICONTROL/
+FTPPathKitInstallazione=/aggiornamentiTEST_EMMICONTROL/

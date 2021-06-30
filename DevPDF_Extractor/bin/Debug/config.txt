@@ -1,0 +1,43 @@
+Server_SQL_EXPRESS=192.168.13.200
+Nome_Sql_Instance=SRVIN448
+Tipo_authentificazione=SQL AUTHENTIFICATION
+Utente_server=sa
+Password_server=Capsis@0
+DATABASE=in448
+Utente_accesso_DB=sa
+Password_DB=Capsis@0
+IsTrustedConnection=sa
+IsLocalServer=false
+securizzatoProgramma=False
+usernameProgramma=adri
+passwordProgramma=adri
+mailRegistrazioneUtenteProgramma=
+
+ACCESSDATABASELOCALEPATH=%\DB_LOCALE.mdb
+ACCESSDATABASEPASSWORD=granclima!2012
+
+MYSQLSERVER=66.71.190.97
+MYSQLDATABASE=030925MBTEST
+MYSQLUSERNAME=mbinformatica
+MYSQLPASSWORD=mb2013
+
+DirectoryPath=%
+ApplicationPath=%\Debug\
+BackupsPATH=%\Backups\
+TempFilesPATH=%\File temp\
+RapportiPDFPATH=%\Rapporti pdf\
+
+EmailRisposta=mail.emmicontrol@gmail.com
+Smtp=smtp.gmail.com
+Porta=587
+enableSSL=True
+CredentialsUsername=mail.emmicontrol
+CredentialsPassword=mbinformatica2014
+
+FTPServer=66.71.182.43
+FTPPorta=21
+FTPUser=ftp@agg.mbinformatica.it
+FTPPass=granclima2012
+FTPPathAggiornamenti=/aggiornamenti/TEST_EMMICONTROL/AGGIORNAMENTI/
+FTPPath=/aggiornamenti/TEST_EMMICONTROL/
+FTPPathKitInstallazione=/aggiornamentiTEST_EMMICONTROL/
